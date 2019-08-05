@@ -3,4 +3,5 @@ Notes while learning python
 
 
 // Exit python shell
+
 exit()
