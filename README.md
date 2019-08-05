@@ -2,5 +2,5 @@
 Notes while learning python
 
 
-# Exit python shell
+// Exit python shell
 exit()
