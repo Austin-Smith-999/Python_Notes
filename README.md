@@ -14,4 +14,4 @@ py -3
 
 // Open python program from command line
 
-python *
+python *.py
